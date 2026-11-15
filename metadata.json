@@ -1,0 +1,6 @@
+{
+  "name": "Earth Pulse",
+  "description": "Autonomous Earth System Trend Discovery Platform powered by NASA Earth-observation time series, deterministic statistical trend analysis, and grounded AI explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

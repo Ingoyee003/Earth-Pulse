@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Earth Pulse</string>
+    <string name="tagline">The Earth is changing. We detect what others overlook.</string>
+    <string name="nav_overview">Overview</string>
+    <string name="nav_investigate">Investigate</string>
+    <string name="nav_discoveries">Discoveries</string>
+    <string name="nav_about">About &amp; Data</string>
+    <string name="cta_start_investigation">Start investigation</string>
+    <string name="cta_analyse_trends">Analyse trends</string>
+    <string name="cta_view_evidence">View evidence</string>
+    <string name="cta_export_report">Export report</string>
+    <string name="cta_save_result">Save result</string>
+    <string name="disclaimer_non_operational">Non-operational educational &amp; research prototype. Not for emergency alerts, weather forecasting, or policy prescriptions.</string>
+</resources>
